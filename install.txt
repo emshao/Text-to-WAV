@@ -1,0 +1,2 @@
+download libraries:
+pip install gTTS pygame
