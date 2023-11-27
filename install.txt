@@ -1,2 +1,15 @@
-download libraries:
-pip install gTTS pygame
+Libraries needed:
+
+
+
+Go to command line, type (one line at a time):
+
+pip install --upgrade google-api-python-client
+pip install --upgrade google-cloud --ignore-installed
+pip install --upgrade google-cloud-texttospeech
+
+pip install pydub
+
+
+
+pip install pyttsx3
